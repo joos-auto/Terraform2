@@ -213,3 +213,10 @@ Apply complete! Resources: 4 added, 0 changed, 0 destroyed.
 
 Чтобы удалить ресурсы, созданные с помощью Terraform: Выполните команду: **terraform destroy**
 
+Дополнительные материалы
+- https://cloud.yandex.ru/docs/tutorials/infrastructure-management/terraform-quickstart
+- https://cloud.yandex.ru/docs/tutorials/infrastructure-management/terraform-state-storage
+- https://cloud.yandex.ru/docs/tutorials/infrastructure-management/packer-quickstart
+- https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs
+
+
